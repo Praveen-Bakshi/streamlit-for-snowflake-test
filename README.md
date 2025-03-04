@@ -1,3 +1,3 @@
 # Streamlit for Snowflake
 
-Live demo code for my Udemy course **"Streamlit for Snowflake Masterclass (2024 Edition)"**.
+Live demo code for **"Streamlit for Snowflake Masterclass (2024 Edition)"**.
